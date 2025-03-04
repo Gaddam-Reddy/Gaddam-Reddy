@@ -40,7 +40,7 @@
 <div>
   <h3>📱 E-Commerce App</h3>
   <p>A fully functional Flutter e-commerce app with Firebase backend, authentication, and cart management.</p>
-  <a href="https://github.com/yourgithub/ecommerce-app" target="_blank">
+  <a href="https://github.com/Gaddam-Reddy/ecommerce-app" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badg" alt="View Project">
   </a>
 </div>
