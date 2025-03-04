@@ -83,7 +83,7 @@
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="gmaneeshreddysk@gmail.com">
+  <a href="https://gmaneeshreddysk@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
