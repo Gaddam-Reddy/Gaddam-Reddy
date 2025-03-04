@@ -14,6 +14,25 @@
   I believe in <strong>clean architecture</strong>, well-structured code, and continuous learning.
 </p>
 ---
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <th>Degree</th>
+    <th>Stream</th>
+    <th>Institution</th>
+    <th>Year</th>
+    <th>CGPA</th>
+  </tr>
+  <tr>
+    <td>B.SC.</td>
+    <td>Computer Science</td>
+    <td>CH. CHARAN SINGH UNIVERSITY (CCSU)</td>
+    <td>2021</td>
+    <td>69.11%</td>
+  </tr>
+</table>
+---
 
 <h2>🚀 About Me</h2>
 <ul>
@@ -53,24 +72,7 @@
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge" alt="View Project">
   </a>
 </div>
-<h2>🎓 Education</h2>
 
-<table>
-  <tr>
-    <th>Degree</th>
-    <th>Stream</th>
-    <th>Institution</th>
-    <th>Year</th>
-    <th>CGPA</th>
-  </tr>
-  <tr>
-    <td>B.SC.</td>
-    <td>Computer Science</td>
-    <td>CH. CHARAN SINGH UNIVERSITY (CCSU)</td>
-    <td>2021</td>
-    <td>69.11%</td>
-  </tr>
-</table>
 ---
 <h2> Let's Connect!</h2>
 <p>
