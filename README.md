@@ -8,6 +8,11 @@
   I create seamless <strong>Android & iOS applications</strong>.  
 </p>
 
+<p align="center">
+  I enjoy working on <strong>open-source projects</strong>, sharing my knowledge with the developer community,  
+  and staying up-to-date with the latest trends in <strong>Flutter & mobile app development.</strong>  
+  I believe in <strong>clean architecture</strong>, well-structured code, and continuous learning.
+</p>
 ---
 
 <h2>🚀 About Me</h2>
