@@ -74,7 +74,7 @@
 ---
 <h2> Let's Connect!</h2>
 <p>
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/Gaddam-Reddy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
@@ -83,7 +83,7 @@
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="mailto:saikumar.dev@gmail.com">
+  <a href="gmaneeshreddysk@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
