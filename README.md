@@ -47,7 +47,7 @@
 
 <div>
   <h3>💬 Bharath Bill Payment System</h3>
-  <p>The BBPS (Bharat Bill Payment System) App is a Flutter-based multi-utility payment solution that streamlines flight bookings, bill payments, and UPI transactions with a seamless user experience. Designed with a modern Dark Blue & Grey UI theme, the app integrates secure payment methods (UPI, bank transfers, and credit/debit cards) while ensuring smooth navigation from flight search to confirmation. Its scalable architecture, structured API handling, and responsive design make it a highly efficient and professional-grade fintech application. 🚀.</p>
+  <p>The BBPS (Bharat Bill Payment System) App is a Flutter-based multi-utility payment solution that streamlines flight bookings, bill payments, and UPI transactions with a seamless user experience. (UPI, bank transfers, and credit/debit cards) while ensuring smooth navigation from flight search to confirmation. Its scalable architecture, structured API handling, and responsive design make it a highly efficient and professional-grade fintech application. 🚀.</p>
   <a href="https://github.com/Gaddam-Reddy/project1-bppa" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge" alt="View Project">
   </a>
