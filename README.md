@@ -13,7 +13,7 @@
   and staying up-to-date with the latest trends in <strong>Flutter & mobile app development.</strong>  
   I believe in <strong>clean architecture</strong>, well-structured code, and continuous learning.
 </p>
----
+
 <h2>🎓 Education</h2>
 
 <table>
@@ -32,7 +32,7 @@
     <td>69.11%</td>
   </tr>
 </table>
----
+
 
 <h2>🚀 About Me</h2>
 <ul>
