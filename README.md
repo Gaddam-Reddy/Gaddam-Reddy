@@ -48,7 +48,7 @@
 <div>
   <h3>💬 Chat App</h3>
   <p>Real-time messaging app using Firebase Firestore and Push Notifications.</p>
-  <a href="https://github.com/yourgithub/chat-app" target="_blank">
+  <a href="https://github.com/Gaddam-Reddy/project1-bppa" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge" alt="View Project">
   </a>
 </div>
