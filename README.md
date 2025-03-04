@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sai Kumar! 🚀</h1>
 
-<h3 align="center">💙 Flutter Developer | Mobile App Enthusiast</h3>
+<h3 align="center"> Flutter Developer | Mobile App Enthusiast</h3>
 
 <p align="center">
   I'm a passionate <strong>Flutter Developer</strong> who builds <strong>high-performance mobile apps</strong> with modern UI/UX.  
@@ -54,16 +54,7 @@
 </div>
 
 ---
-
-<h2>📖 Blog & Articles</h2>
-<ul>
-  <li>✍️ <a href="https://dev.to/yourprofile/flutter-state-management" target="_blank">State Management in Flutter - Which One to Choose?</a></li>
-  <li>✍️ <a href="https://medium.com/yourprofile/flutter-performance-tips" target="_blank">Boost Your Flutter App Performance - Best Practices</a></li>
-</ul>
-
----
-
-<h2>🌎 Let's Connect!</h2>
+<h2> Let's Connect!</h2>
 <p>
   <a href="https://github.com/yourgithub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
@@ -81,4 +72,4 @@
 
 ---
 
-<h4 align="center">💙 Keep Building | Keep Learning | Keep Growing 🚀</h4>
+
